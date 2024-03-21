@@ -1,0 +1,1 @@
+1. The information of Project Plan,Conceptial Modeling,Relational Modeling and 10 queries with results are present in "DBMS_Final_Project_Report_V4" pdf file.
